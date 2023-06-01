@@ -1,4 +1,6 @@
 {
+ 
+  "deviceType": "solar",
   "pins": [17,16],
   "customername":"mvmschool",
   "ftmodbus": "y",
