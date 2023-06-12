@@ -1,6 +1,7 @@
 {
  
   "deviceType": "solar",
+  "ledpins":21,
   "pins": [17,16],
   "customername":"mvmschool",
   "ftmodbus": "y",
