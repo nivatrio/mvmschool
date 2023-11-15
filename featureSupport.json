@@ -6,7 +6,7 @@
   "customername":"mvmschool",
   "ftmodbus": "y",
   "ftjson": "n",
-  "ftzed": "y",
+  "ftzed": "n",
   "interval": 10,
   "ftmqttcontrol": "n",
   "ftbtcontrol": "n"
